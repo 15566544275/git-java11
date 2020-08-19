@@ -5,5 +5,6 @@ public class Holle {
 		System.out.println("输出");
 		System.out.println("输出1");
 		System.out.println("输出33");
+		System.out.println("输出35");
 	}
 }
